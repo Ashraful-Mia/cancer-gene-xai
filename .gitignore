@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw/private data
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Environment/config
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Model and generated data artifacts
+*.joblib
+*.pkl
+*.tsv
